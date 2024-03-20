@@ -5,5 +5,5 @@ Alma mater: NIT Tiruchirappalli/Trichy. I am passionate about using mathematical
 
 Skills: Explainable mathematical models, data science, data visualization, and statistics
 
-- 🔭 I’m currently working on deploying a project to help clinicians predict evolutionary trajectory in response to a dosing regimen
+- 🔭 I’m working on deploying a project to help clinicians predict evolutionary trajectory of _M. tuberculosis_ in response to a bedaquiline dosing regimen
 - 🌱 I’m currently learning and implementing machine learning models
