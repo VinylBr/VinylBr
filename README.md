@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome!! 
 
-I am a doctoral researcher @ IIT Bombay in the intersection of Chemical Engineering and Evolutionary Biology🔬 on tackling drug-resistance evolution in tuberculosis treatment. 
+I am a doctoral researcher @ IIT Bombay working in the intersection of Chemical Engineering and Evolutionary Biology on tackling drug-resistance evolution in tuberculosis treatment. 
 I am passionate about using mathematical modeling and statistical principles to solve real-world challenges. 
 
 Alma mater📚: NIT Tiruchirappalli/Trichy. 
