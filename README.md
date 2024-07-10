@@ -8,7 +8,7 @@ Alma mater📚: NIT Tiruchirappalli/Trichy.
 **Skills**: Explainable mathematical models🖥️, data science💹, data visualization, and statistics📊
 
 - 🔭 I’m working on deploying a project to help clinicians predict evolutionary trajectory of _M. tuberculosis_ in response to a bedaquiline dosing regimen
-- 🌱 I’m currently learning and implementing machine learning models
+- 🌱 I’m currently learning Graph Machine Learning to predict drug-resistance status of patients with tuberculosis
 
 
 ### Publications:
